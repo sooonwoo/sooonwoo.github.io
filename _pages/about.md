@@ -1,85 +1,60 @@
 ---
-permalink: /about/
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
-toc: true
+permalink: /
+title: "About Me"
+excerpt: "About Me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+I'm a research scientist at <a href="https://www.twelvelabs.io/" style="color: #000; text-decoration:none">**Twelve Labs**</a> developing multi-modal AI that understands videos.
+I did my MS at KAIST, under the supervision of <a href="https://mli.kaist.ac.kr/" style="color: #000; text-decoration: none;">**Prof. Eunho Yang**</a>.
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+My research interest includes:
+- Multi-modal representation learning
+- Generative model
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
 
-## Notable Features
+## Work Experiences
+- Research Scientist, <a href="https://www.twelvelabs.io/" style="color: #000; text-decoration: none;">**Twelve Labs**</a>, Seoul, South Korea (Apr 2024 - Present)
+- Research Scientist, <a href="https://riiid.com/" style="color: #000; text-decoration: none;">**Riiid**</a>, Seoul, South Korea (Mar 2022 - Apr 2024)
+- Research Intern, <a href="https://www.socar.kr/" style="color: #000; text-decoration: none;">**Socar**</a>, Seoul, South Korea (Oct 2021 - Feb 2022)
+- Research Intern, <a href="https://www.kixlab.org/" style="color: #000; text-decoration: none;">**KIXLAB**</a>, Daejon, South Korea (Jan 2019 - May 2019)
+- Research Intern, <a href="https://duttgroup.ics.uci.edu/" style="color: #000; text-decoration: none;">**Dutt’s Research Group(DRG)**</a>, Irvine, USA (Jun 2018 – Dec 2018)
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), [giscus](https://giscus.app/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Kiswahili, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+## Preprints
+- **ScoreCL: Augmentation-Adaptive Contrastive Learning via Score-Matching Function** \\
+<a href="https://arxiv.org/abs/2306.04175" style="color: #000; text-decoration: none;">[paper]</a> \\
+Jin-Young Kim\*, <u>Soonwoo Kwon</u>\*, Hyojun Go\*, Yunsung Lee, Seungtaek Choi\\
+<span style="color:darkred">**Arxiv 2023**</span>
 
-## Demo Pages
+- **Denoising Task Difficulty-based Curriculum for Training Diffusion Models** \\
+<a href="https://arxiv.org/abs/2306.04175" style="color: #000; text-decoration: none;">[paper]</a> \\
+Jin-Young Kim\*, Hyojun Go\*, <u>Soonwoo Kwon</u>, Hyun-Gyoon Kim\\
+<span style="color:darkred">**Arxiv 2024**</span>
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
+## Conference Publications
+- **BIPED: Pedagogically Informed Tutoring System for ESL Education** \\
+<u>Soonwoo Kwon</u>\*, Sojung Kim, Minju Park, Seunghyun Lee, Kyuseok Kim\\
+<span style="color:darkred">**ACL 2024**</span>
 
-For even more demo pages check the [posts archive][year-archive].
+- **Empowering Personalized Learning through a Conversation-based Tutoring System with Student Modeling** \\
+<a href="https://dl.acm.org/doi/full/10.1145/3613905.3651122" style="color: #000; text-decoration: none;">[paper]</a> \\
+Minju Park, Sojung Kim, Seunghyun Lee, <u>Soonwoo Kwon<u>, Kyuseok Kim \\
+<span style="color:darkred">**CHI Late-Breaking Work**</span> 2024
 
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
+- **Addressing Selection Bias in Computerized Adaptive Testing: A User-Wise Aggregate Influence Function Approach** \\
+<a href="https://arxiv.org/pdf/2308.11912" style="color: #000; text-decoration: none;">[paper]</a> \\
+<u>Soonwoo Kwon</u>\*, Sojung Kim\*, Seunghyun Lee, Jin-Young Kim, Suyeong An, Kyuseok Kim\\
+<span style="color:darkred">**CIKM 2023**</span>
 
----
+- **How Older Adults Use Online Videos for Learning** \\
+Seoyoung Kim, Donghoon Shin, Jeongyeon Kim, <u>Soonwoo Kwon</u>, Juho Kim\\
+<a href="https://dl.acm.org/doi/abs/10.1145/3544548.3580671" style="color: #000; text-decoration: none;">[paper]</a> \\
+<span style="color:darkred">**CHI 2023**</span>
 
-## Credits
+## Education  
+- **M.S.** in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #000; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Sep. 2019 - Aug. 2021</font> 
 
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+- **B.S.** in Computer Science and Mathematics, <a href="https://neweng.cau.ac.kr/index.do" style="color: #000; text-decoration: none;">**CHUNG-ANG UNIVERSITY**</a>, <font size="3">Mar. 2014 - Aug. 2019</font>
