@@ -18,11 +18,11 @@ My research interest includes:
 
 
 ## Work Experiences
-- Research Scientist, <a href="https://www.twelvelabs.io/" style="color: #000; text-decoration: none;">**Twelve Labs**</a>, Seoul, South Korea (Apr 2024 - Present)
-- Research Scientist, <a href="https://riiid.com/" style="color: #000; text-decoration: none;">**Riiid**</a>, Seoul, South Korea (Mar 2022 - Apr 2024)
-- Research Intern, <a href="https://www.socar.kr/" style="color: #000; text-decoration: none;">**Socar**</a>, Seoul, South Korea (Oct 2021 - Feb 2022)
-- Research Intern, <a href="https://www.kixlab.org/" style="color: #000; text-decoration: none;">**KIXLAB**</a>, Daejon, South Korea (Jan 2019 - May 2019)
-- Research Intern, <a href="https://duttgroup.ics.uci.edu/" style="color: #000; text-decoration: none;">**Dutt’s Research Group(DRG)**</a>, Irvine, USA (Jun 2018 – Dec 2018)
+- Research Scientist, <a href="https://www.twelvelabs.io/" style="color: #337ab7; text-decoration: none;">**Twelve Labs**</a>, Seoul, South Korea (Apr 2024 - Present)
+- Research Scientist, <a href="https://riiid.com/" style="color: #337ab7; text-decoration: none;">**Riiid**</a>, Seoul, South Korea (Mar 2022 - Apr 2024)
+- Research Intern, <a href="https://www.socar.kr/" style="color: #337ab7; text-decoration: none;">**Socar**</a>, Seoul, South Korea (Oct 2021 - Feb 2022)
+- Research Intern, <a href="https://www.kixlab.org/" style="color: #337ab7; text-decoration: none;">**KIXLAB**</a>, Daejon, South Korea (Jan 2019 - May 2019)
+- Research Intern, <a href="https://duttgroup.ics.uci.edu/" style="color: #337ab7; text-decoration: none;">**Dutt’s Research Group(DRG)**</a>, Irvine, USA (Jun 2018 – Dec 2018)
 
 ## Preprints
 - ScoreCL: Augmentation-Adaptive Contrastive Learning via Score-Matching Function 
