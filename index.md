@@ -12,10 +12,9 @@ I'm a research scientist at <a href="https://www.twelvelabs.io/" style="color: #
 I did my Master's degree at KAIST, under the supervision of <a href="https://mli.kaist.ac.kr/" style="color: #337ab7; text-decoration: none;">**Prof. Eunho Yang**</a>.
 
 My research interest includes:
-- Multi-modal representation learning
 - Data-centric AI 
+- Multi-modal representation learning
 - Generative model
-
 
 ## Work Experiences
 - Research Scientist, <a href="https://www.twelvelabs.io/" style="color: #337ab7; text-decoration: none;">**Twelve Labs**</a>, Seoul, South Korea (Apr 2024 - Present)
