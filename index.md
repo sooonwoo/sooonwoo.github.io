@@ -26,7 +26,7 @@ My research interest includes:
 ## Preprints
 - **ScoreCL: Augmentation-Adaptive Contrastive Learning via Score-Matching Function** \\
 <a href="https://arxiv.org/abs/2306.04175" style="color: #000; text-decoration: none;">[paper]</a> \\
-Jin-Young Kim\*, <b>Soonwoo Kwon</b>\*, Hyojun Go\*, Yunsung Lee, Seungtaek Choi\\
+Jin-Young Kim\*, <b>Soonwoo Kwon</b>\*, Hyojun Go\*, Yunsung Lee, Seungtaek Choi\\
 <span style="color:darkred">**Arxiv 2023**</span>
 
 - **Denoising Task Difficulty-based Curriculum for Training Diffusion Models** \\
