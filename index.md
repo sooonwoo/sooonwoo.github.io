@@ -24,34 +24,34 @@ My research interest includes:
 - Research Intern, <a href="https://duttgroup.ics.uci.edu/" style="color: #000; text-decoration: none;">**Dutt’s Research Group(DRG)**</a>, Irvine, USA (Jun 2018 – Dec 2018)
 
 ## Preprints
-- **ScoreCL: Augmentation-Adaptive Contrastive Learning via Score-Matching Function** \\
+- **ScoreCL: Augmentation-Adaptive Contrastive Learning via Score-Matching Function** 
 <a href="https://arxiv.org/abs/2306.04175" style="color: #000; text-decoration: none;">[paper]</a> \\
 Jin-Young Kim\*, <b>Soonwoo Kwon</b>\*, Hyojun Go\*, Yunsung Lee, Seungtaek Choi\\
 <span style="color:darkred">**Arxiv 2023**</span>
 
-- **Denoising Task Difficulty-based Curriculum for Training Diffusion Models** \\
+- **Denoising Task Difficulty-based Curriculum for Training Diffusion Models** 
 <a href="https://arxiv.org/abs/2306.04175" style="color: #000; text-decoration: none;">[paper]</a> \\
 Jin-Young Kim\*, Hyojun Go\*, <b>Soonwoo Kwon</b>, Hyun-Gyoon Kim\\
 <span style="color:darkred">**Arxiv 2024**</span>
 
 ## Conference Publications
-- **BIPED: Pedagogically Informed Tutoring System for ESL Education** \\
+- **BIPED: Pedagogically Informed Tutoring System for ESL Education** 
 <b>Soonwoo Kwon</b>, Sojung Kim, Minju Park, Seunghyun Lee, Kyuseok Kim\\
 <span style="color:darkred">**ACL 2024**</span>
 
-- **Empowering Personalized Learning through a Conversation-based Tutoring System with Student Modeling** \\
+- **Empowering Personalized Learning through a Conversation-based Tutoring System with Student Modeling** 
 <a href="https://dl.acm.org/doi/full/10.1145/3613905.3651122" style="color: #000; text-decoration: none;">[paper]</a> \\
 Minju Park, Sojung Kim, Seunghyun Lee, <b>Soonwoo Kwon</b>, Kyuseok Kim \\
 <span style="color:darkred">**CHI Late-Breaking Work**</span> 2024
 
-- **Addressing Selection Bias in Computerized Adaptive Testing: A User-Wise Aggregate Influence Function Approach** \\
+- **Addressing Selection Bias in Computerized Adaptive Testing: A User-Wise Aggregate Influence Function Approach**
 <a href="https://arxiv.org/pdf/2308.11912" style="color: #000; text-decoration: none;">[paper]</a> \\
 <b>Soonwoo Kwon</b>\*, Sojung Kim\*, Seunghyun Lee, Jin-Young Kim, Suyeong An, Kyuseok Kim\\
 <span style="color:darkred">**CIKM 2023**</span>
 
-- **How Older Adults Use Online Videos for Learning** \\
-Seoyoung Kim, Donghoon Shin, Jeongyeon Kim, <b>Soonwoo Kwon</b>, Juho Kim\\
+- **How Older Adults Use Online Videos for Learning** 
 <a href="https://dl.acm.org/doi/abs/10.1145/3544548.3580671" style="color: #000; text-decoration: none;">[paper]</a> \\
+Seoyoung Kim, Donghoon Shin, Jeongyeon Kim, <b>Soonwoo Kwon</b>, Juho Kim\\
 <span style="color:darkred">**CHI 2023**</span>
 
 ## Education  
