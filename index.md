@@ -56,6 +56,6 @@ Seoyoung Kim, Donghoon Shin, Jeongyeon Kim, <b>Soonwoo Kwon</b>, Juho Kim\\
 <span style="color:darkred">**CHI 2023**</span>
 
 ## Education  
-- **M.S.** in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #000; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, Sep. 2019 - Aug. 2021
+- **M.S.** in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #337ab7; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, Sep 2019 - Aug 2021
 
-- **B.S.** in Computer Science and Mathematics, <a href="https://neweng.cau.ac.kr/index.do" style="color: #000; text-decoration: none;">**CHUNG-ANG UNIVERSITY**</a>, Mar. 2014 - Aug. 2019
+- **B.S.** in Computer Science and Mathematics, <a href="https://neweng.cau.ac.kr/index.do" style="color: #337ab7; text-decoration: none;">**CHUNG-ANG UNIVERSITY (CAU)**</a>, Mar 2014 - Aug 2019
