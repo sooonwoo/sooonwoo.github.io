@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I'm a research scientist at <a href="https://www.twelvelabs.io/" style="color: #000; text-decoration:none">**Twelve Labs**</a> developing multi-modal AI that understands videos.
-I did my MS at KAIST, under the supervision of <a href="https://mli.kaist.ac.kr/" style="color: #000; text-decoration: none;">**Prof. Eunho Yang**</a>.
+I did my Master's degree at KAIST, under the supervision of <a href="https://mli.kaist.ac.kr/" style="color: #000; text-decoration: none;">**Prof. Eunho Yang**</a>.
 
 My research interest includes:
 - Multi-modal representation learning
