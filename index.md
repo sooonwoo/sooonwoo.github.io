@@ -37,7 +37,8 @@ Jin-Young Kim\*, Hyojun Go\*, <b>Soonwoo Kwon</b>, Hyun-Gyoon Kim\\
 <span style="color:darkred">**Arxiv 2024**</span>
 
 ## Conference Publications
-- BIPED: Pedagogically Informed Tutoring System for ESL Education \\
+- BIPED: Pedagogically Informed Tutoring System for ESL Education
+<a href="https://arxiv.org/pdf/2406.03486" style="color: #337ab7; text-decoration: none;">[paper]</a>\\
 <b>Soonwoo Kwon</b>, Sojung Kim, Minju Park, Seunghyun Lee, Kyuseok Kim\\
 <span style="color:darkred">**ACL 2024**</span>
 
