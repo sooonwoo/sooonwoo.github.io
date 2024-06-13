@@ -44,7 +44,7 @@ Jin-Young Kim\*, Hyojun Go\*, <b>Soonwoo Kwon</b>, Hyun-Gyoon Kim\\
 - Empowering Personalized Learning through a Conversation-based Tutoring System with Student Modeling 
 <a href="https://dl.acm.org/doi/full/10.1145/3613905.3651122" style="color: #337ab7; text-decoration: none;">[paper]</a> \\
 Minju Park, Sojung Kim, Seunghyun Lee, <b>Soonwoo Kwon</b>, Kyuseok Kim \\
-<span style="color:darkred">**CHI Late-Breaking Work**</span> 2024
+<span style="color:darkred">**CHI Late-Breaking Work 2024**</span>
 
 - Addressing Selection Bias in Computerized Adaptive Testing: A User-Wise Aggregate Influence Function Approach
 <a href="https://arxiv.org/pdf/2308.11912" style="color: #337ab7; text-decoration: none;">[paper]</a> \\
