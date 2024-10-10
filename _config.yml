@@ -122,7 +122,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:swkwon.john@gmail.com"
     - label: "Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fa-solid fa-user"
       url: "https://www.semanticscholar.org/author/Soonwoo-Kwon/2292676489"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
