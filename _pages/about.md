@@ -13,7 +13,8 @@ I did my MS at KAIST, under the supervision of <a href="https://mli.kaist.ac.kr/
 
 My research interest includes:
 - Multi-modal representation learning
-- Generative model
+- Generative models
+- Embodied agents
 
 
 ## Work Experiences
@@ -36,7 +37,7 @@ Jin-Young Kim\*, Hyojun Go\*, <u>Soonwoo Kwon</u>, Hyun-Gyoon Kim\\
 
 ## Conference Publications
 - **BIPED: Pedagogically Informed Tutoring System for ESL Education** \\
-<a href="https://arxiv.org/abs/2406.03486" style="color: #000; text-decoration: none;">[paper]</a> \\
+<a href="https://aclanthology.org/2024.acl-long.186.pdf" style="color: #000; text-decoration: none;">[paper]</a> \\
 <u>Soonwoo Kwon</u>\*, Sojung Kim, Minju Park, Seunghyun Lee, Kyuseok Kim\\
 <span style="color:darkred">**ACL 2024**</span>
 
