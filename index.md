@@ -14,8 +14,8 @@ I did my Master's degree at KAIST, under the supervision of <a href="https://mli
 My research interest includes:
 
 - Multi-modal representation learning
-- Data-centric AI 
 - Generative model
+- Embodied agents
   
 
 ## Work Experiences
