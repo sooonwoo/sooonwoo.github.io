@@ -26,15 +26,15 @@ My research interest includes:
 - Research Intern, <a href="https://duttgroup.ics.uci.edu/" style="color: #337ab7; text-decoration: none;">**Dutt’s Research Group(DRG)**</a>, Irvine, USA (Jun 2018 – Dec 2018)
 
 ## Preprints
+- Denoising Task Difficulty-based Curriculum for Training Diffusion Models
+<a href="https://arxiv.org/abs/2403.10348" style="color: #337ab7; text-decoration: none;">[paper]</a> \\
+Jin-Young Kim\*, Hyojun Go\*, <b>Soonwoo Kwon</b>, Hyun-Gyoon Kim\\
+<span style="color:darkred">**Arxiv 2024**</span>
+
 - ScoreCL: Augmentation-Adaptive Contrastive Learning via Score-Matching Function 
 <a href="https://arxiv.org/abs/2306.04175" style="color: #337ab7; text-decoration: none;">[paper]</a> \\
 Jin-Young Kim\*, <b>Soonwoo Kwon</b>\*, Hyojun Go\*, Yunsung Lee, Seungtaek Choi\\
 <span style="color:darkred">**Arxiv 2023**</span>
-
-- Denoising Task Difficulty-based Curriculum for Training Diffusion Models
-<a href="https://arxiv.org/abs/2306.04175" style="color: #337ab7; text-decoration: none;">[paper]</a> \\
-Jin-Young Kim\*, Hyojun Go\*, <b>Soonwoo Kwon</b>, Hyun-Gyoon Kim\\
-<span style="color:darkred">**Arxiv 2024**</span>
 
 ## Conference Publications
 - BIPED: Pedagogically Informed Tutoring System for ESL Education
