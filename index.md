@@ -31,10 +31,11 @@ My research interest includes:
 Jin-Young Kim\*, Hyojun Go\*, <b>Soonwoo Kwon</b>, Hyun-Gyoon Kim\\
 <span style="color:darkred">**Arxiv 2024**</span>
 
+## Journal Publications
 - ScoreCL: Augmentation-Adaptive Contrastive Learning via Score-Matching Function 
 <a href="https://arxiv.org/abs/2306.04175" style="color: #337ab7; text-decoration: none;">[paper]</a> \\
 Jin-Young Kim\*, <b>Soonwoo Kwon</b>\*, Hyojun Go\*, Yunsung Lee, Seungtaek Choi\\
-<span style="color:darkred">**Arxiv 2023**</span>
+<span style="color:darkred">**Machine Learning 2024**</span>
 
 ## Conference Publications
 - BIPED: Pedagogically Informed Tutoring System for ESL Education
