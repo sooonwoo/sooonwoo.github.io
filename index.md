@@ -28,7 +28,7 @@ My research interest includes:
 ## Preprints
 - Denoising Task Difficulty-based Curriculum for Training Diffusion Models
 <a href="https://arxiv.org/abs/2403.10348" style="color: #337ab7; text-decoration: none;">[paper]</a> \\
-Jin-Young Kim\*, Hyojun Go\*, <b>Soonwoo Kwon</b>, Hyun-Gyoon Kim\\
+Jin-Young Kim\*, Hyojun Go\*, <b>Soonwoo Kwon\*</b>, Hyun-Gyoon Kim\\
 <span style="color:darkred">**Arxiv 2024**</span>
 
 ## Journal Publications
