@@ -25,12 +25,6 @@ My research interest includes:
 - Research Intern, <a href="https://www.kixlab.org/" style="color: #337ab7; text-decoration: none;">**KIXLAB**</a>, Daejon, South Korea (Jan 2019 - May 2019)
 - Research Intern, <a href="https://duttgroup.ics.uci.edu/" style="color: #337ab7; text-decoration: none;">**Dutt’s Research Group(DRG)**</a>, Irvine, USA (Jun 2018 – Dec 2018)
 
-## Preprints
-- Denoising Task Difficulty-based Curriculum for Training Diffusion Models
-<a href="https://arxiv.org/abs/2403.10348" style="color: #337ab7; text-decoration: none;">[paper]</a> \\
-Jin-Young Kim\*, Hyojun Go\*, <b>Soonwoo Kwon\*</b>, Hyun-Gyoon Kim\\
-<span style="color:darkred">**Arxiv 2024**</span>
-
 ## Journal Publications
 - ScoreCL: Augmentation-Adaptive Contrastive Learning via Score-Matching Function 
 <a href="https://arxiv.org/abs/2306.04175" style="color: #337ab7; text-decoration: none;">[paper]</a> \\
@@ -38,6 +32,11 @@ Jin-Young Kim\*, <b>Soonwoo Kwon</b>\*, Hyojun Go\*, Yunsung Lee, Seungtaek Choi
 <span style="color:darkred">**Machine Learning 2024**</span>
 
 ## Conference Publications
+- Denoising Task Difficulty-based Curriculum for Training Diffusion Models
+<a href="https://arxiv.org/abs/2403.10348" style="color: #337ab7; text-decoration: none;">[paper]</a> \\
+Jin-Young Kim\*, Hyojun Go\*, <b>Soonwoo Kwon\*</b>, Hyun-Gyoon Kim\\
+<span style="color:darkred">**ICLR 2025**</span>
+
 - BIPED: Pedagogically Informed Tutoring System for ESL Education
 <a href="https://arxiv.org/pdf/2406.03486" style="color: #337ab7; text-decoration: none;">[paper]</a>\\
 <b>Soonwoo Kwon</b>, Sojung Kim, Minju Park, Seunghyun Lee, Kyuseok Kim\\
