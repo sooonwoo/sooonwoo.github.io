@@ -30,12 +30,10 @@ My prior work spans **diffusion models**([<a href="#c5">C5</a>], [<a href="#c6">
 
 ## Preprints
 <ul>
-  <li id="p1">[P1] Toward Stable World Models: Measureing and Addressing World Instability in Generative Environments 
-    <a href="https://arxiv.org/abs/2503.08122" style="color: #337ab7; text-decoration: none;">[paper]</a> <br> 
-    <b>Soonwoo Kwon*</b>, Jin-Young Kim*, Hyojun Go, Kyungjune Baek <br> 
-     <span style="color:darkred">Arxiv 2025</span>
+  <li id="p1">[P1] Toward Stable World Models: Measureing and Addressing World Instability in Generative Environments <a href="https://arxiv.org/abs/2503.08122" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
+    <b>Soonwoo Kwon*</b>, Jin-Young Kim*, Hyojun Go, Kyungjune Baek, <span style="color:darkred">Arxiv 2025</span>
   </li>
- </ul>
+</ul>
  
 ## Journal Publications
 <ul>
