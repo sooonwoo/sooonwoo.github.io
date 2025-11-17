@@ -37,64 +37,46 @@ My prior work spans **diffusion models**([<a href="#c5">C5</a>], [<a href="#c6">
  
 ## Journal Publications
 <ul>
-  <li id="j1">[J1] ScoreCL: Augmentation-Adaptive Contrastive Learning via Score-Matching Function 
-  <a href="https://arxiv.org/abs/2306.04175" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
-  Jin-Young Kim*, <b>Soonwoo Kwon</b>*, Hyojun Go*, Yunsung Lee, Seungtaek Choi <br> 
-  <span style="color:darkred">Machine Learning 2024</span>
+  <li id="j1">[J1] ScoreCL: Augmentation-Adaptive Contrastive Learning via Score-Matching Function <a href="https://arxiv.org/abs/2306.04175" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
+  Jin-Young Kim*, <b>Soonwoo Kwon</b>*, Hyojun Go*, Yunsung Lee, Seungtaek Choi, <span style="color:darkred">Machine Learning 2024</span>
   </li>
 </ul>
 
 ## Conference Publications
 <ul>
-  <li id="c6">[C6] SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis
-  <a href="https://arxiv.org/abs/2411.16443" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
-  Hyojun Go*, Byeongjun Park*, Jiho Jang, Jin-Young Kim, <b>Soonwoo Kwon</b>, Changick Kim <br> 
-  <span style="color:darkred">CVPR 2025</span>
+  <li id="c6">[C6] SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis <a href="https://arxiv.org/abs/2411.16443" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
+  Hyojun Go*, Byeongjun Park*, Jiho Jang, Jin-Young Kim, <b>Soonwoo Kwon</b>, Changick Kim, <span style="color:darkred">CVPR 2025</span>
   </li>
 
-  <li id="c5">[C5] Denoising Task Difficulty-based Curriculum for Training Diffusion Models
-  <a href="https://arxiv.org/abs/2403.10348" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
-  Jin-Young Kim*, Hyojun Go*, <b>Soonwoo Kwon*</b>, Hyun-Gyoon Kim <br> 
-  <span style="color:darkred">ICLR 2025</span>
+  <li id="c5">[C5] Denoising Task Difficulty-based Curriculum for Training Diffusion Models <a href="https://arxiv.org/abs/2403.10348" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
+  Jin-Young Kim*, Hyojun Go*, <b>Soonwoo Kwon*</b>, Hyun-Gyoon Kim, <span style="color:darkred">ICLR 2025</span>
   </li>
 
-  <li id="c4">[C4] BIPED: Pedagogically Informed Tutoring System for ESL Education
-  <a href="https://arxiv.org/pdf/2406.03486" style="color: #337ab7; text-decoration: none;">[paper]</a><br>
-  <b>Soonwoo Kwon</b>, Sojung Kim, Minju Park, Seunghyun Lee, Kyuseok Kim <br> 
-  <span style="color:darkred">ACL 2024</span>
+  <li id="c4">[C4] BIPED: Pedagogically Informed Tutoring System for ESL Education <a href="https://arxiv.org/pdf/2406.03486" style="color: #337ab7; text-decoration: none;">[paper]</a><br>
+  <b>Soonwoo Kwon</b>, Sojung Kim, Minju Park, Seunghyun Lee, Kyuseok Kim, <span style="color:darkred">ACL 2024</span>
   </li>
 
-  <li id="c3">[C3] Empowering Personalized Learning through a Conversation-based Tutoring System with Student Modeling 
-  <a href="https://dl.acm.org/doi/full/10.1145/3613905.3651122" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
-  Minju Park, Sojung Kim, Seunghyun Lee, <b>Soonwoo Kwon</b>, Kyuseok Kim <br> 
-  <span style="color:darkred">CHI Late-Breaking Work 2024</span>
+  <li id="c3">[C3] Empowering Personalized Learning through a Conversation-based Tutoring System with Student Modeling <a href="https://dl.acm.org/doi/full/10.1145/3613905.3651122" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
+  Minju Park, Sojung Kim, Seunghyun Lee, <b>Soonwoo Kwon</b>, Kyuseok Kim, <span style="color:darkred">CHI Late-Breaking Work 2024</span>
   </li>
 
-  <li id="c2">[C2] Addressing Selection Bias in Computerized Adaptive Testing: A User-Wise Aggregate Influence Function Approach
-  <a href="https://arxiv.org/pdf/2308.11912" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
-  <b>Soonwoo Kwon</b>*, Sojung Kim*, Seunghyun Lee, Jin-Young Kim, Suyeong An, Kyuseok Kim <br> 
-  <span style="color:darkred">CIKM 2023</span>
+  <li id="c2">[C2] Addressing Selection Bias in Computerized Adaptive Testing: A User-Wise Aggregate Influence Function Approach <a href="https://arxiv.org/pdf/2308.11912" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
+  <b>Soonwoo Kwon</b>*, Sojung Kim*, Seunghyun Lee, Jin-Young Kim, Suyeong An, Kyuseok Kim, <span style="color:darkred">CIKM 2023</span>
   </li>
 
-  <li id="c1">[C1] How Older Adults Use Online Videos for Learning 
-  <a href="https://dl.acm.org/doi/abs/10.1145/3544548.3580671" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
-  Seoyoung Kim, Donghoon Shin, Jeongyeon Kim, <b>Soonwoo Kwon</b>, Juho Kim <br> 
-  <span style="color:darkred">CHI 2023</span>
+  <li id="c1">[C1] How Older Adults Use Online Videos for Learning <a href="https://dl.acm.org/doi/abs/10.1145/3544548.3580671" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
+  Seoyoung Kim, Donghoon Shin, Jeongyeon Kim, <b>Soonwoo Kwon</b>, Juho Kim, <span style="color:darkred">CHI 2023</span>
   </li>
 </ul>
 
 ## Technical Reports
 <ul>
-  <li id="t1">[T1] TWLV-I: Analysis and Insights from Holistic Evaluation on Video Foundation Models 
-  <a href="https://arxiv.org/abs/2408.11318" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
-  TwelveLabs AI Team <br> 
-  <span style="color:darkred">Tech Report 2024</span>
+  <li id="t1">[T1] TWLV-I: Analysis and Insights from Holistic Evaluation on Video Foundation Models <a href="https://arxiv.org/abs/2408.11318" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
+  TwelveLabs AI Team, <span style="color:darkred">Tech Report 2024</span>
   </li>
 
-  <li id="t2">[T2] Marengo 2.7: Multi-Vector Representation for Multi-Modal Video Understanding 
-  <a href="https://www.twelvelabs.io/blog/introducing-marengo-2-7" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
-  TwelveLabs AI Team(Core) <br> 
-  <span style="color:darkred">Tech Report 2025</span>
+  <li id="t2">[T2] Marengo 2.7: Multi-Vector Representation for Multi-Modal Video Understanding <a href="https://www.twelvelabs.io/blog/introducing-marengo-2-7" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
+  TwelveLabs AI Team(Core), <span style="color:darkred">Tech Report 2025</span>
   </li>
 </ul>
 
