@@ -34,14 +34,12 @@ My prior work spans **diffusion models**([<a href="#c5">C5</a>], [<a href="#c6">
     <b>Soonwoo Kwon*</b>, Jin-Young Kim*, Hyojun Go, Kyungjune Baek, <span style="color:darkred">Arxiv 2025</span>
   </li>
 </ul>
- 
 ## Journal Publications
 <ul>
   <li id="j1">[J1] ScoreCL: Augmentation-Adaptive Contrastive Learning via Score-Matching Function <a href="https://arxiv.org/abs/2306.04175" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
   Jin-Young Kim*, <b>Soonwoo Kwon</b>*, Hyojun Go*, Yunsung Lee, Seungtaek Choi, <span style="color:darkred">Machine Learning 2024</span>
   </li>
 </ul>
-
 ## Conference Publications
 <ul>
   <li id="c6">[C6] SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis <a href="https://arxiv.org/abs/2411.16443" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
@@ -68,7 +66,6 @@ My prior work spans **diffusion models**([<a href="#c5">C5</a>], [<a href="#c6">
   Seoyoung Kim, Donghoon Shin, Jeongyeon Kim, <b>Soonwoo Kwon</b>, Juho Kim, <span style="color:darkred">CHI 2023</span>
   </li>
 </ul>
-
 ## Technical Reports
 <ul>
   <li id="t1">[T1] TWLV-I: Analysis and Insights from Holistic Evaluation on Video Foundation Models <a href="https://arxiv.org/abs/2408.11318" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
