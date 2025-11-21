@@ -21,7 +21,7 @@ My prior work spans **diffusion models**([<a href="#c5">C5</a>], [<a href="#c6">
   
 
 ## Work Experiences
-- Research Engineer, <a href="https://www.twelvelabs.io/" style="color: #337ab7; text-decoration: none;">**Twelve Labs**</a>, Seoul, South Korea (Apr 2025 - Present)
+- Research Engineer, <a href="https://www.navercorp.com/" style="color: #337ab7; text-decoration: none;">**NAVER**</a>, Gyeonggi-do, South Korea (Apr 2025 - Present)
 - Research Scientist, <a href="https://www.twelvelabs.io/" style="color: #337ab7; text-decoration: none;">**Twelve Labs**</a>, Seoul, South Korea (Apr 2024 - Apr 2025)
 - Research Scientist, <a href="https://riiid.com/" style="color: #337ab7; text-decoration: none;">**Riiid**</a>, Seoul, South Korea (Mar 2022 - Apr 2024)
 - Research Intern, <a href="https://www.socar.kr/" style="color: #337ab7; text-decoration: none;">**Socar**</a>, Seoul, South Korea (Oct 2021 - Feb 2022)
