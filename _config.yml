@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "Soonwoo Kwon"
   avatar           : "/assets/bio-photo.jpg"
-  bio              : "Research Scientis at Twelve Labs"
+  bio              : # "Research Scientis at Twelve Labs"
   location         : "Seoul, South Korea"
   email            :
   links:
