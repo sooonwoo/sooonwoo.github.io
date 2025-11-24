@@ -15,9 +15,9 @@ I did my Master's degree at KAIST, under the supervision of <a href="https://mli
 My research interest lies at the intersection of **world models** and **embodied agents**. Specifically:
 - Closing the sim-to-real gap through world models that incorporate 3D structure and long-horizon scene consistency.
 - Developing generalized and scalable foundation models for embodied intelligence, capable of adapting across tasks, modalities, and environments.
-- Enabling System 2-like reasoning capabilities in embodied agents by utilizing world models for lookahead planning.
+- Enabling System 2 reasoning capabilities in embodied agents by utilizing world models for lookahead planning.
 
-My prior work spans **diffusion models**([<a href="#c5">C5</a>], [<a href="#c6">C6</a>], [<a href="#p1">P1</a>]), **multi-modal learning**([<a href="#c4">C4</a>], [<a href="#j1">J1</a>], [<a href="#t1">T1</a>], [<a href="#t2">T2</a>]), and **interactive systems**([<a href="#c1">C1</a>], [<a href="#c2">C2</a>], [<a href="#c3">C3</a>]), forming the methodological basis for my current research direction.
+My prior work spans **generative models**([<a href="#c5">C5</a>], [<a href="#c6">C6</a>], [<a href="#p1">P1</a>]), **multi-modal learning**([<a href="#c4">C4</a>], [<a href="#j1">J1</a>], [<a href="#t1">T1</a>], [<a href="#t2">T2</a>]), and **interactive systems**([<a href="#c1">C1</a>], [<a href="#c2">C2</a>], [<a href="#c3">C3</a>]), forming the methodological basis for my current research direction.
   
 
 ## Work Experiences
