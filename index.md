@@ -17,7 +17,7 @@ My research interest lies at the intersection of **world models** and **embodied
 - Building embodied foundation models by leveraging heterogeneous data, such as web-scale multi-modal data, human demonstrations, simulations, and cross-embodiment robotic data.
 - Enabling System 2 reasoning capabilities within embodied agents.
 
-My prior work spans **generative models**([<a href="#c5">C5</a>], [<a href="#c6">C6</a>], [<a href="#p1">P1</a>]), **multi-modal learning**([<a href="#c4">C4</a>], [<a href="#j1">J1</a>], [<a href="#t1">T1</a>], [<a href="#t2">T2</a>]), and **interactive systems**([<a href="#c1">C1</a>], [<a href="#c2">C2</a>], [<a href="#c3">C3</a>]), forming the methodological basis for my current research direction.
+My prior work spans **generative models**([<a href="#c5">C5</a>], [<a href="#c6">C6</a>], [<a href="#p1">P1</a>]), **foundation models & multi-modal learning**([<a href="#c4">C4</a>], [<a href="#j1">J1</a>], [<a href="#t1">T1</a>], [<a href="#t2">T2</a>]), and **interactive systems**([<a href="#c1">C1</a>], [<a href="#c2">C2</a>], [<a href="#c3">C3</a>]), forming the methodological basis for my current research direction.
   
 
 ## Work Experiences
