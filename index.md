@@ -37,6 +37,7 @@ My prior work spans **generative models**([<a href="#c5">C5</a>], [<a href="#c6"
   Jin-Young Kim*, <b>Soonwoo Kwon</b>*, Hyojun Go*, Yunsung Lee, Seungtaek Choi, <span style="color:darkred">Machine Learning 2024</span>
   </li>
 </ul>
+
 ## Conference Publications
 <ul>
   <li id="c6">[C6] SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis <a href="https://arxiv.org/abs/2411.16443" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
