@@ -28,14 +28,11 @@ My prior work spans **generative models**([<a href="#c5">C5</a>], [<a href="#c6"
 - Research Intern, <a href="https://www.kixlab.org/" style="color: #337ab7; text-decoration: none;">**KIXLAB**</a>, Daejon, South Korea (Jan 2019 - May 2019)
 - Research Intern, <a href="https://duttgroup.ics.uci.edu/" style="color: #337ab7; text-decoration: none;">**Dutt’s Research Group(DRG)**</a>, Irvine, USA (Jun 2018 – Dec 2018)
 
-## Preprints
-<ul>
-  <li id="p1">[P1] Toward Stable World Models: Measureing and Addressing World Instability in Generative Environments <a href="https://arxiv.org/abs/2503.08122" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
-    <b>Soonwoo Kwon*</b>, Jin-Young Kim*, Hyojun Go, Kyungjune Baek, <span style="color:darkred">Arxiv 2025</span>
-  </li>
-</ul>
 ## Journal Publications
 <ul>
+  <li id="p1">[J2] Toward Stable World Models: Measureing and Addressing World Instability in Generative Environments <a href="https://arxiv.org/abs/2503.08122" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
+    <b>Soonwoo Kwon*</b>, Jin-Young Kim*, Hyojun Go, Kyungjune Baek, <span style="color:darkred">Arxiv 2025</span>
+  </li>
   <li id="j1">[J1] ScoreCL: Augmentation-Adaptive Contrastive Learning via Score-Matching Function <a href="https://arxiv.org/abs/2306.04175" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
   Jin-Young Kim*, <b>Soonwoo Kwon</b>*, Hyojun Go*, Yunsung Lee, Seungtaek Choi, <span style="color:darkred">Machine Learning 2024</span>
   </li>
