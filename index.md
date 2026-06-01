@@ -9,28 +9,18 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research engineer at <a href="https://www.navercorp.com/" style="color: #337ab7; text-decoration:none">**NAVER**</a> developing shopping foundation models.
-I did my Master's degree at KAIST, under the supervision of <a href="https://mli.kaist.ac.kr/" style="color: #337ab7; text-decoration: none;">**Prof. Eunho Yang**</a>.
-
 My research interest lies at the intersection of **world models** and **embodied agents**. Specifically:
-- Developing generative world models capable of simulating realistic, diverse, and temporally consistent trajectories.
-- Building embodied foundation models by leveraging heterogeneous data, such as web-scale multi-modal data, human demonstrations, simulations, and cross-embodiment robotic data.
+- Developing generative world models capable of simulating realistic and diverse trajectories, leveraging them as a data engine and policy evaluator.
+- Building robot foundation models utilizing heterogeneous data, such as human demonstrations and synthetic data.
 - Enabling System 2 reasoning capabilities within embodied agents.
 
-My prior work spans **generative models**([<a href="#c5">C5</a>], [<a href="#c6">C6</a>], [<a href="#p1">P1</a>]), **foundation models & multi-modal learning**([<a href="#c4">C4</a>], [<a href="#j1">J1</a>], [<a href="#t1">T1</a>], [<a href="#t2">T2</a>]), and **interactive systems**([<a href="#c1">C1</a>], [<a href="#c2">C2</a>], [<a href="#c3">C3</a>]), forming the methodological basis for my current research direction.
-  
+My prior work spans **generative models**([<a href="#c5">C5</a>], [<a href="#c6">C6</a>], [<a href="#j2">J2</a>]), **foundation models & multi-modal learning**([<a href="#c4">C4</a>], [<a href="#j1">J1</a>], [<a href="#t1">T1</a>], [<a href="#t2">T2</a>]), and **interactive systems**([<a href="#c1">C1</a>], [<a href="#c2">C2</a>], [<a href="#c3">C3</a>]), forming the methodological basis for my current research direction.
 
-## Work Experiences
-- Research Engineer, <a href="https://www.navercorp.com/" style="color: #337ab7; text-decoration: none;">**NAVER**</a>, Gyeonggi-do, South Korea (Apr 2025 - Present)
-- Research Scientist, <a href="https://www.twelvelabs.io/" style="color: #337ab7; text-decoration: none;">**Twelve Labs**</a>, Seoul, South Korea (Apr 2024 - Apr 2025)
-- Research Scientist, <a href="https://riiid.com/" style="color: #337ab7; text-decoration: none;">**Riiid**</a>, Seoul, South Korea (Mar 2022 - Apr 2024)
-- Research Intern, <a href="https://www.socar.kr/" style="color: #337ab7; text-decoration: none;">**Socar**</a>, Seoul, South Korea (Oct 2021 - Feb 2022)
-- Research Intern, <a href="https://www.kixlab.org/" style="color: #337ab7; text-decoration: none;">**KIXLAB**</a>, Daejon, South Korea (Jan 2019 - May 2019)
-- Research Intern, <a href="https://duttgroup.ics.uci.edu/" style="color: #337ab7; text-decoration: none;">**Dutt’s Research Group(DRG)**</a>, Irvine, USA (Jun 2018 – Dec 2018)
+I did my Master's degree at KAIST, under the supervision of <a href="https://mli.kaist.ac.kr/" style="color: #337ab7; text-decoration: none;">**Prof. Eunho Yang**</a>.
 
 ## Journal Publications
 <ul>
-  <li id="p1">[J2] Toward Stable World Models: Measureing and Addressing World Instability in Generative Environments <a href="https://arxiv.org/abs/2503.08122" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
+  <li id="j2">[J2] Toward Stable World Models: Measureing and Addressing World Instability in Generative Environments <a href="https://arxiv.org/abs/2503.08122" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
     <b>Soonwoo Kwon*</b>, Jin-Young Kim*, Hyojun Go, Kyungjune Baek, <span style="color:darkred">Pattern Recognition 2026</span>
   </li>
   <li id="j1">[J1] ScoreCL: Augmentation-Adaptive Contrastive Learning via Score-Matching Function <a href="https://arxiv.org/abs/2306.04175" style="color: #337ab7; text-decoration: none;">[paper]</a> <br>
@@ -73,6 +63,14 @@ My prior work spans **generative models**([<a href="#c5">C5</a>], [<a href="#c6"
   TwelveLabs AI Team, <span style="color:darkred">Tech Report 2024</span>
   </li>
 </ul>
+
+## Work Experiences
+- Research Engineer, <a href="https://www.navercorp.com/" style="color: #337ab7; text-decoration: none;">**NAVER**</a>, Gyeonggi-do, South Korea (Apr 2025 - Present)
+- Research Scientist, <a href="https://www.twelvelabs.io/" style="color: #337ab7; text-decoration: none;">**Twelve Labs**</a>, Seoul, South Korea (Apr 2024 - Apr 2025)
+- Research Scientist, <a href="https://riiid.com/" style="color: #337ab7; text-decoration: none;">**Riiid**</a>, Seoul, South Korea (Mar 2022 - Apr 2024)
+- Research Intern, <a href="https://www.socar.kr/" style="color: #337ab7; text-decoration: none;">**Socar**</a>, Seoul, South Korea (Oct 2021 - Feb 2022)
+- Research Intern, <a href="https://www.kixlab.org/" style="color: #337ab7; text-decoration: none;">**KIXLAB**</a>, Daejon, South Korea (Jan 2019 - May 2019)
+- Research Intern, <a href="https://duttgroup.ics.uci.edu/" style="color: #337ab7; text-decoration: none;">**Dutt’s Research Group(DRG)**</a>, Irvine, USA (Jun 2018 – Dec 2018)
 
 ## Education  
 - **M.S.** in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #337ab7; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, Sep 2019 - Aug 2021
